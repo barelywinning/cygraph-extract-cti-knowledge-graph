@@ -1,7 +1,7 @@
 # CyGraph-Extract
 
 **Automated Framework for Constructing Real-Time Malware Threat Intelligence Knowledge Graphs**
-
+**Co-Developed with Yatharth Dahuja, Aditya Sharma and Badri Narayana**
 A production-ready full-stack application that constructs knowledge graphs from unstructured Cyber Threat Intelligence (CTI) text using Named Entity Recognition (NER), self-correcting relation extraction, and ontology validation.
 
 ---
